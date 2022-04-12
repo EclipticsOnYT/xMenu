@@ -41,4 +41,4 @@ Click [here](https://docs.vespura.com/vmenu/configuration) for configuration opt
 
 
 ## MenuAPI
-Starting from xMenu v1.0.0, xMenu will be using [MenuAPI (MAPI)](https://github.com/TomGrobbe/MenuAPI), a custom menu API designed specifically for vMenu by me.
+Starting from xMenu v1.0.0, xMenu will be using [MenuAPI (MAPI)](https://github.com/TomGrobbe/MenuAPI), a custom menu API designed specifically for vMenu by TomGrobble.
